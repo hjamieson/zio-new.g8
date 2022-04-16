@@ -1586,3 +1586,30 @@ file%3A%2F%2F%2FUsers%2Fhughj%2FDevelopment%2Fzio%2Fg8%2Fzio-template%2Fsrc%2Fma
 2022.04.16 13:04:48 INFO  Shut down connection with build server.
 2022.04.16 13:04:48 INFO  Shut down connection with build server.
 2022.04.16 13:04:48 INFO  Shut down connection with build server.
+2022.04.16 13:42:46 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hughj/Development/zio/g8/zio-template.g8/.metals/lsp.trace.json or /Users/hughj/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.04.16 13:42:47 INFO  logging to file /Users/hughj/Development/zio/g8/zio-template.g8/.metals/metals.log
+2022.04.16 13:42:47 INFO  Started: Metals version 0.11.2 in workspace '/Users/hughj/Development/zio/g8/zio-template.g8' for client Visual Studio Code 1.66.2.
+2022.04.16 13:42:47 INFO  Parse release: 11.0.9
+2022.04.16 13:42:48 INFO  time: initialize in 1.84s
+2022.04.16 13:42:49 INFO  Attempting to connect to the build server...
+2022.04.16 13:42:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hughj/Development/zio/g8/zio-template.g8/.metals/bsp.trace.json or /Users/hughj/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.04.16 13:42:48 INFO  Attempting to connect to the build server...
+2022.04.16 13:42:48 INFO  Attempting to connect to the build server...
+2022.04.16 13:42:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hughj/Development/zio/g8/zio-template.g8/project/project/.metals/bsp.trace.json or /Users/hughj/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.04.16 13:42:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hughj/Development/zio/g8/zio-template.g8/project/.metals/bsp.trace.json or /Users/hughj/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.04.16 13:42:49 INFO  time: Connected to build server in 0.42s
+2022.04.16 13:42:49 INFO  Connected to Build server: Bloop v1.4.13
+2022.04.16 13:42:53 INFO  time: indexed workspace in 3.11s
+2022.04.16 13:48:02 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 13:48:08 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/$package$/Stub.scala
+2022.04.16 13:48:19 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 13:51:03 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 13:51:06 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 13:58:42 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 13:58:48 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 13:58:51 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 13:58:53 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+2022.04.16 14:00:11 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/$package.packaged$/Stub.scala
+2022.04.16 14:03:46 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/Stub.scala
+Apr 16, 2022 2:13:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
