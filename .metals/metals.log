@@ -1620,3 +1620,5 @@ INFO: Unsupported notification method: $/setTrace
 2022.04.16 14:36:11 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/$package__packaged$/Stub.scala
 2022.04.16 14:36:28 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/$package__packaged$/Stub.scala
 2022.04.16 14:36:31 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/$package__packaged$/Stub.scala
+2022.04.16 14:37:57 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/$package__packaged$/Stub.scala
+2022.04.16 14:37:59 WARN  no build target for: /Users/hughj/Development/zio/g8/zio-template.g8/src/main/g8/src/main/scala/$package__packaged$/Stub.scala
