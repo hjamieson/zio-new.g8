@@ -5,7 +5,7 @@ package $package$
 
 object Stub {
   def main(args: Array[String]): Unit = {
-    println("$name$")
+    println("$description$")
   }
   // got any helpful boilerplate for your users?
 }
